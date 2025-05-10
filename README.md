@@ -1,6 +1,6 @@
-# EyeZen 👁️ – MERN Stack Eye Care Management System
+# Eye Care 👁️ – MERN Stack Eye Care Management System
 
-**EyeZen** is a full-stack web application designed to help users manage and monitor their eye health. Built using the MERN stack (MongoDB, Express, React, and Node.js), EyeZen offers a modern, responsive, and user-friendly interface for tracking symptoms, scheduling appointments, accessing eye care resources, and more.
+** Eye Care** is a full-stack web application designed to help users manage and monitor their eye health. Built using the MERN stack (MongoDB, Express, React, and Node.js),  Eye Care offers a modern, responsive, and user-friendly interface for tracking symptoms, scheduling appointments, accessing eye care resources, and more.
 
 ---
 
@@ -111,11 +111,11 @@ For feedback or queries, contact me at: **[LinkedIn](https://www.linkedin.com/in
 
 This project is licensed under the **MIT License**.
 
-- **Image Storage:** Images used in EyeZen are stored securely in Cloudinary, ensuring fast loading times and high-quality visuals.
+- **Image Storage:** Images used in  Eye Care are stored securely in Cloudinary, ensuring fast loading times and high-quality visuals.
 
 ## Contributors
 
-EyeZen is the result of collaborative efforts from a team of passionate individuals dedicated to enhancing eye care awareness. Meet our contributors:
+ Eye Care is the result of collaborative efforts from a team of passionate individuals dedicated to enhancing eye care awareness. Meet our contributors:
 
 
 ## Screenshots
